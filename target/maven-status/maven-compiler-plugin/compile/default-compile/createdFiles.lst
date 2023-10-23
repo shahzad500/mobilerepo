@@ -1,0 +1,6 @@
+com\cg\Application.class
+com\cg\service\MobileService.class
+com\cg\dao\MobileDao.class
+com\cg\controller\MobileController.class
+com\cg\repository\MobileRepository.class
+com\cg\entity\Mobile.class
